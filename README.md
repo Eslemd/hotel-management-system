@@ -1,2 +1,13 @@
-# hotel-management-system
-A C# hotel reception automation system that allows managing rooms, assigning rooms to customers, and checking out guests.
+# Hotel Automation System
+
+Bu proje resepsiyon bazlı bir otel otomasyon sistemidir.
+
+## Özellikler
+- Müşteriye oda satışı yapma
+- Odaları boşaltma (check-out)
+- Oda durumunu görüntüleme
+- Resepsiyon yönetimi
+
+## Amaç
+Resepsiyon görevlisinin oteldeki oda satış ve yönetim işlemlerini hızlı bir şekilde yapabilmesini sağlamak.
+
