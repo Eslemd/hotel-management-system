@@ -1,6 +1,6 @@
 # Hotel Automation System
 
-Bu proje resepsiyon bazlı bir otel otomasyon sistemidir.
+Bu proje resepsiyon bazlı bir otel sistemidir.
 
 ## Özellikler
 - Müşteriye oda satışı yapma
